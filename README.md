@@ -2,7 +2,7 @@
 
 ## Basic sample
 
-The basic sample uploads local image to Cloudinary using multer-storage-cloudinary, the sample uploads the image directly to your cloudinary media library.
+The basic sample uploads local image to Cloudinary using multer and cloudinary, the sample uploads the image directly to your cloudinary media library.
 
 ### Setting up
 
@@ -18,8 +18,7 @@ The basic sample uploads local image to Cloudinary using multer-storage-cloudina
 ## Additional resources ##
 
 * [Node integration documentation](http://cloudinary.com/documentation/node_integration)
-* [multer-storage-cloudinary npm](https://www.npmjs.com/package/multer-storage-cloudinary)
-* [Node Image Upload] (http://cloudinary.com/documentation/node_image_upload)
+* [multer-storage-cloudinary npm](https://www.npmjs.com/package/multer)
 
 
 ### Author Harry Trinh

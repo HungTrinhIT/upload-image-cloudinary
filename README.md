@@ -1,4 +1,4 @@
-# Cloudinary Image upload with Node.js multer and Angular 4 #
+# Cloudinary Image upload with Node.js multer and ReactJS
 
 ## Basic sample
 
